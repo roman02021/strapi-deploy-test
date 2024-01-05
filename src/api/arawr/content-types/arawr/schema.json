@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "arawrsb",
+  "info": {
+    "singularName": "arawr",
+    "pluralName": "arawrsb",
+    "displayName": "arawr"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "asf": {
+      "type": "string"
+    }
+  }
+}

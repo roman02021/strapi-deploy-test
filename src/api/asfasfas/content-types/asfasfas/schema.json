@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "asfasfasa",
+  "info": {
+    "singularName": "asfasfas",
+    "pluralName": "asfasfasa",
+    "displayName": "asfasfas"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "b": {
+      "type": "string"
+    }
+  }
+}

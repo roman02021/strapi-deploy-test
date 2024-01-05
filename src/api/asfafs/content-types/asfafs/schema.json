@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "asfafsa",
+  "info": {
+    "singularName": "asfafs",
+    "pluralName": "asfafsa",
+    "displayName": "asfafs"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "safasf": {
+      "type": "string"
+    }
+  }
+}

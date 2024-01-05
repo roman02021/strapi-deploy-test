@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ayos",
+  "info": {
+    "singularName": "ayo",
+    "pluralName": "ayos",
+    "displayName": "ayo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ay": {
+      "type": "string"
+    },
+    "aaa": {
+      "type": "string"
+    }
+  }
+}
